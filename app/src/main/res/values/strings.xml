@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="mode1">Standard Mode</string>
+    <string name="mode2">Scientific Mode</string>
+    <string name="help">Help</string>
+    <string name="display">0</string>
+    <string name="ce">CE</string>
+    <string name="c">C</string>
+    <string name="mPlus">M+</string>
+    <string name="mStore">MS</string>
+    <string name="mClear">MC</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="mRestore">MR</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="plus">+</string>
+    <string name="divide">/</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="subtract">-</string>
+    <string name="multiply">x</string>
+    <string name="square_root">√</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="exponent_2">x²</string>
+    <string name="exponent_y">X^y</string>
+    <string name="exponent_10">10^x</string>
+    <string name="mod">MOD</string>
+    <string name="pie">π</string>
+    <string name="open_bracket">(</string>
+    <string name="close_bracket">)</string>
+    <string name="scientific_mode">Scientific</string>
+    <string name="standard_mode">Standard</string>
+    <string name="help_btn">Help</string>
+    <string name="back_btn">Back to calculator</string>
+    <string name="help_title">Help for using Calculator</string>
+    <string name="help_intro">\nThis section will help you understand the function of each button of the calculator.</string>
+    <string name="help_standard">\nCE: Clear previous entry \nC: Clear all, reset to 0 \nM+: Add result to memory \nMS: Store value to memory \nMC: Clear memory \nMR: Display value in memory \n\n No 0 to 9: You can enter a digit of one or several numbers \n=: Give the final result \n\n√: Give the square of the displayed number \n.= A number can be an integer or a decimal. In the later case, use . to create the decimal number \nSCIENTIFIC button: Switch to Scientific mode \nHELP: Open the Help section \n\nBe aware that this calculator is in Beta mode and cannot, for the moment, display numbers or results which are longer than 9 digits. \n\nExamples: \n\n9+3= \n\n9*5+8-1/2= \n\n23.0125*2.1= \n\n√25= \n\n2+6*9= \n\n2-3= followed by M+ followed by 3*3= followed by M+ followed by MR \n\n5+6-7 followed by CE will display 5+6- \n\n5+6-7 followed by CE will display 0 </string>
+    <string name="help_scientific">\nSCIENTIFIC SECTION\n\n( and ): Use to place operations inside parenthesis so that calculations are performed inside before applying any other exterior operation(s). \n\n For example: (5+6)-1= will give 10 as result \nx²: This will give the square of a number. For example, 5 followed by x² will give 25 \nx^y: Enter a first number, press this key and enter a second number, and the second number will be the exponent of the first one. For example: 10 followed by x^y followed 2 will give 100. \nMOD : This key will give the remainder when a number is divided by another number. For example, 11 followed by MOD followed by 5 will give 1 \nπ: This give wil display the value of PIE and can be used for any calculation. </string>
+</resources>

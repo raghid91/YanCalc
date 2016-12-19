@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c7c7c7</color>
+    <color name="colorPrimaryDark">#1f1f23</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="digits">#363636</color>
+    <color name="functions">#fd3b00</color>
+    <color name="sc_functions">#fd003f</color>
+    <color name="operations">#0085b6</color>
+    <color name="result">#0fb404</color>
+    <color name="modes">#3d21a4</color>
+    <color name="alert">#c9000a</color>
+</resources>
